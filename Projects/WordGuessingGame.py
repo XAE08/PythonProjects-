@@ -52,5 +52,3 @@ if __name__=="__main__":
     c=WordGame()
     c.initialStep()
     c.guessWork()
-#Problem:If guessed before min turns
-#if guessed correctLY no trigger
